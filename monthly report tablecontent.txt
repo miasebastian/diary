@@ -1,0 +1,66 @@
+2025
+
+Jan
+PlugX  - kmrefresh.exe sideloading coreglobconfig.dll
+CobaltStrike - Dj.exe malware downloader
+Lazarus 
+    + initial: IBM_VN_IT_SA.iso, AmazonVNC.exe
+    + Ranid downloader, CookieTime, CharamelLoader, ServiceChagner, CookieLPlusLoader, MISTPEN
+
+
+Feb
+Stealer: CV Telesale Tran Huynh Cam Duyen  
+C# .NET, reflective loader, bypass chrome appbound
+
+Mar
+APT-Congdoan: Thu moi - Chuong trinh su kien 2025 --> CVE-2023-38831 winrar
+Ransomware (Marine) Pomoch - bh205.exe
+
+
+Apr
+APT-airline: 2.aspx, Kav.exe, pems.dll, msadcst.dll
+APT-energy: SystemSettings.exe sideloading SysetmSettings.dll, cobaltstrike
+Android: ThueChinhPhu.apk
+
+
+May
+Ransomware-ESXi: hq (elf file)
+Stealer: QuasarRat loader (Okay.dll, Server.dll), submti from VN, signed executable, Loli.bat
+Earth Kurma: (Trend Micro report) NBTSCAN, LADON, ICMPINGER, WMIHACKER, KMLOG, DUNLOADER, TESDAT, DMLOADER, MORIYA, KRNAT, SIMPOBOXSPY, ODRIZ
+
+Jun
+Noodlophile: STARKVEIL (dropper), Launcher (heil.exe sideloading heil.dll), GRIMPULL (python.exe sideloading avcodec-61.dll), FROSTRIFT(ffplay.exe sideload libde265.dll), XWORM (pythonw.exe sideload heif.dll)
+VNese-botnet: file.exe, C2: 103.249.200.64
+
+
+Jul
+Hive0154: Invitation to the Inter-Agency meeting for the 46th ASEAN summit.exe, helper_core.dll (Claimloader), pubload malware (shellcode), pubshell is final shellcode
+Earth Krahang: RESHELL backdoor Pho bien quy dinh cua tap doan va chu truong su dung nguoi lao dong co chuyen mon, nghiep vu ngach chinh nam 2025
+Pi2day scam 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
